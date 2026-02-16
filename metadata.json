@@ -1,0 +1,8 @@
+{
+  "name": "CloudOS",
+  "description": "A fully functional browser-based operating system featuring window management, a virtual file system, and essential applications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
